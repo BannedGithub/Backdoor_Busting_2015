@@ -12,7 +12,8 @@ This information should help people trying to protect their servers from this cr
 See the folders for information about each one.
 
 
-./BD001_gpwn_new - gpwn backdoor, quite complex.
+./BD001_gpwn_new 		- gpwn backdoor, quite complex.
+./BD002_Underdone	 	- "Underdone" backdoor/DRM annoyance script.
 
 
 

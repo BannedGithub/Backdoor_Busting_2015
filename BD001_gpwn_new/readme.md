@@ -17,6 +17,8 @@ See "1_deobf.lua" for the code ran serverside, and "raw_deobf.lua" for the code 
 binary module fetches and runs in its seperate environment.
 Module's code write stuff to "C:/tid.txt"
 
+Also apears to run via a Wire E2 chip by exploiting owner():pp("bloom")
+See "thread.lua"
 
 
 
