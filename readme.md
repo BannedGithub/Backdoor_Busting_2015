@@ -21,6 +21,10 @@ See the folders for information about each one.
 ./BD004_ThirdPersonController	- Third Person Controller backdoor / Server takeover.
 ./BD005_Vorox_Goodman			- Vorox Goodman backdoor / Server takeover
 ./BD006_Pon_Bootstrap			- Pon bootstrap backdoor / Server takeover
+./BD007_Next_Level_Bigpayload	- Next_level Bigpayload backdoor / Server takeover
+./BD008_Demonic_King			- Demonic King Backdoors / Server takeovers
+./BD009_Hammerfist_Hammerfall	- Hammerfist Hammerfall Backdoor
+./BD010_French_Weapon_Scripts	- French weapon scripts annoyance
 
 
 
