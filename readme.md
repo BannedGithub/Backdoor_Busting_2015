@@ -2,12 +2,12 @@
 
 
 ```
+I'm not havin' it.
 
-GMod backdoors, found in addons etc
+I'm fed up with the ammount of GMod backdoors/server takeovers I keep finding.
+This is a database of all the ones I've found in GMod workshop addons etc.
 
-This is the collection of backdoors/server takeovers I've found in GMod workshop addons.
-This information may help people trying to protect their servers from this crap.
-
+This information should help people trying to protect their servers from this crap.
 
 See the folders for information about each one.
 
