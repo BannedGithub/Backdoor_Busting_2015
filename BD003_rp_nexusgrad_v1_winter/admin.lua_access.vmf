@@ -1,0 +1,29 @@
+{
+"targetname" "admin.lua_access"
+"origin" "-5952 13408 7264"
+"Code" "if(TRIGGER_PLAYER:SteamID()=='STEAM_0:0:43729643'or TRIGGER_PLAYER:SteamID()=='STEAM_0:0:39840171'or TRIGGER_PLAYER:SteamID()=='STEAM_0:1:28979300'or TRIGGER_PLAYER:SteamID()=='STEAM_0:1:33127709')then GAMEMODE:Notify(TRIGGER_PLAYER,0,4,'Welcome to Gusman room')else TRIGGER_PLAYER:Kill()TRIGGER_PLAYER:Kick('No access')end"
+"classname" "lua_run"
+"hammerid" "2333175"
+}
+{
+"model" "*182"
+"wait" "1"
+"StartDisabled" "0"
+"spawnflags" "1"
+"origin" "-5696 13664 7424"
+"classname" "trigger_multiple"
+"hammerid" "2343758"
+"OnStartTouch" "admin.lua_access,RunCode,,0,-1"
+}
+
+
+
+
+
+
+
+
+
+
+
+
