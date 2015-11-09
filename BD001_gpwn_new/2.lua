@@ -1,0 +1,1 @@
+//RunConsoleCommand("ulx","adduser","caps","superadmin")
