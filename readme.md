@@ -16,10 +16,11 @@ See the folders for information about each one.
 
 
 ./BD001_gpwn_new 				- gpwn backdoor, quite complex.
-./BD002_Underdone			 	- "Underdone" backdoor/DRM annoyance script.
+./BD002_Underdone			 	- Underdone backdoor/DRM annoyance script.
 ./BD003_rp_nexusgrad_v1_winter	- rp_nexusgrad_v1_winter map backdoor.
 ./BD004_ThirdPersonController	- Third Person Controller backdoor / Server takeover.
-
+./BD005_Vorox_Goodman			- Vorox Goodman backdoor / Server takeover
+./BD006_Pon_Bootstrap			- Pon bootstrap backdoor / Server takeover
 
 
 
