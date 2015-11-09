@@ -28,6 +28,5 @@ Possibly related to the "pwn" backdoor, see other folders here
 
 Protection:
 . Read and understand all code you run on your servers.
-. Override RunString/RunStringEx/CompileString to prevent running remote HTTP payloads
-fetched by the code.
+. Override RunString/RunStringEx/CompileString to prevent running remote HTTP payloads.
 ```
