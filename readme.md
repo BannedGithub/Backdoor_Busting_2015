@@ -25,6 +25,7 @@ See the folders for information about each one.
 ./BD008_Demonic_King			- Demonic King Backdoors / Server takeovers
 ./BD009_Hammerfist_Hammerfall	- Hammerfist Hammerfall Backdoor
 ./BD010_French_Weapon_Scripts	- French weapon scripts annoyance
+./BD011_IdiotBackdoor			- The dumbest one yet
 
 
 
