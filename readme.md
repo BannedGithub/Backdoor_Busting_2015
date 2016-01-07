@@ -26,6 +26,7 @@ See the folders for information about each one.
 ./BD009_Hammerfist_Hammerfall	- Hammerfist Hammerfall Backdoor
 ./BD010_French_Weapon_Scripts	- French weapon scripts annoyance
 ./BD011_IdiotBackdoor			- The dumbest one yet
+./BD012_DoorHandler				- Another crappy takeover
 
 
 
