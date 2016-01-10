@@ -28,6 +28,7 @@ See the folders for information about each one.
 ./BD011_IdiotBackdoor			- The dumbest one yet
 ./BD012_DoorHandler				- Another crappy takeover
 ./BD013_CPT_Base				- Harmless but annoying chat spammer
+./BD014_Obfuscated_hud			- Obfuscated hud? not sure about this one
 
 
 
