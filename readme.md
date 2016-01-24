@@ -29,6 +29,7 @@ See the folders for information about each one.
 ./BD012_DoorHandler				- Another crappy takeover
 ./BD013_CPT_Base				- Harmless but annoying chat spammer
 ./BD014_Obfuscated_hud			- Obfuscated hud? not sure about this one
+./BD015_CustomizableWeaponry_2	- Basic concommand & steamIDs
 
 
 
