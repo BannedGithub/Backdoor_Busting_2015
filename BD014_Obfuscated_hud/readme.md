@@ -8,6 +8,9 @@ Strings and variable names are obfuscated with unicode and scrambling.
 Not checked what it does, but it can't be good.
 
 
+EDIT 28.01.16:
+Added another file
+
 Protection:
 . Read and understand all code you run on your servers.
 ```
