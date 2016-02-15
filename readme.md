@@ -31,6 +31,7 @@ See the folders for information about each one.
 ./BD014_Obfuscated_hud			- Obfuscated hud? not sure about this one
 ./BD015_CustomizableWeaponry_2	- Basic concommand & steamIDs
 ./BD016_GCap					- Basic concommand
+./BD017_Crash					- Admin giver
 
 
 
