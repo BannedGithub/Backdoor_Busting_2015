@@ -32,6 +32,7 @@ See the folders for information about each one.
 ./BD015_CustomizableWeaponry_2	- Basic concommand & steamIDs
 ./BD016_GCap					- Basic concommand
 ./BD017_Crash					- Admin giver
+./BD018_AfterShock_Gaming		- Annoyance & takeover
 
 
 
