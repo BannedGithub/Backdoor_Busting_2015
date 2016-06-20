@@ -1,0 +1,8 @@
+<{
+    "response": "PINGBACK",
+    "status": "OK",
+    "packet-r": {
+        "target": "*",
+        "re": "null"
+    }
+}    >

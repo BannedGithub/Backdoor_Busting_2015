@@ -1,0 +1,8 @@
+<{
+    "response": "NOTIFY",
+    "status": "OK",
+    "packet-r": {
+        "target": "null",
+        "re": "null"
+    }
+}    >

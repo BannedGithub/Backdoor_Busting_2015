@@ -35,6 +35,7 @@ See the folders for information about each one.
 ./BD018_AfterShock_Gaming				- Annoyance & server takeover
 ./BD019_HTX_Hostile_Takeover_Exploit	- Server takeover with client menu
 ./BD020_Dumb							- Another dumb HTTP RunString one
+./BD021_ShittyScripts					- Backdoor'd cheat, clientside!
 
 
 

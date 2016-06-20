@@ -1,0 +1,8 @@
+{
+    "response": "UPDATE_CHECK",
+    "status": "OK",
+    "packet-r": {
+        "target": "*",
+        "re": "\/\/ Add Update Checker Here"
+    }
+}
